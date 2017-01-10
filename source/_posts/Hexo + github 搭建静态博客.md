@@ -1,6 +1,7 @@
 ---
 title: Hexo + github 搭建静态博客
 date: 2016-12-28 10:08:46
+thumbnail: 'http://ww4.sinaimg.cn/large/72fc054egw1fb983jt653j20p008cdgp.jpg'
 tags:
 ---
 2016年的年底，终于下定决心搭建一个技术博客。谈不上分享经验，就权当是自己的学习笔记吧。第一篇博客，当然是介绍博客是如何搭建的啦！
