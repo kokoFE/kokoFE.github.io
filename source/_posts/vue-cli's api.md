@@ -26,4 +26,5 @@ vue init webpack my-project
 3. browserify 相当于第一点，只不过使用的browserify。
 4. browserify-simple 相当于第二点，只不过使用的browserify。
 5. simple 使用单个HTML文件开发，拥有最简单的设置。
+6. add some words
 ## 定制模板
